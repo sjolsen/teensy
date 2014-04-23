@@ -1,2 +1,6 @@
+!blinky-at90usb1286.hex
+!blinky-at90usb162.hex
+!blinky-at90usb646.hex
+!blinky-atmega32u4.hex
 teensy_loader_cli
 teensy_loader_cli.exe
